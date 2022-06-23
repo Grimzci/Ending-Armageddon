@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"hero","characterIndex":0,"characterName":"hero","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hero","traits":[],"initialLevel":1,"maxLevel":99,"name":"Samuel","nickname":"Hero","note":"","profile":"An innocent child robbed of childhood for an acclaimed greater cause."},
+{"id":1,"battlerName":"hero","characterIndex":0,"characterName":"hero","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hero","traits":[{"code":52,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1},{"code":52,"dataId":4,"value":1},{"code":52,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Samuel","nickname":"Hero","note":"","profile":"An innocent child robbed of childhood for an acclaimed greater cause."},
 {"id":2,"battlerName":"j3tty","characterIndex":0,"characterName":"j3tty","classId":14,"equips":[75,0,0,2,0],"faceIndex":0,"faceName":"j3tty","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gnash","nickname":"j3tty","note":"","profile":""},
 {"id":3,"battlerName":"DwyghtHuman","characterIndex":4,"characterName":"Evil","classId":9,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dwyght","nickname":"","note":"","profile":"On a journey to discover the secrets of life and obtain immortality."},
 {"id":4,"battlerName":"baap","characterIndex":0,"characterName":"baap","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"baap","traits":[],"initialLevel":1,"maxLevel":99,"name":"Althea","nickname":"Baap","note":"","profile":""},
