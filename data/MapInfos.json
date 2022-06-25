@@ -1,7 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":7918,"scrollY":3414},
+{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":7908,"scrollY":3002},
 {"id":2,"expanded":false,"name":"The Decorative Mines","order":2,"parentId":1,"scrollX":1500,"scrollY":1064},
-{"id":3,"expanded":true,"name":"Tower","order":3,"parentId":1,"scrollX":1500,"scrollY":856},
-{"id":4,"expanded":false,"name":"Tower 1F","order":4,"parentId":3,"scrollX":1510.6666666666667,"scrollY":1577.3333333333333}
+{"id":3,"expanded":true,"name":"Tower","order":6,"parentId":1,"scrollX":1500,"scrollY":845.3333333333334},
+{"id":4,"expanded":false,"name":"Tower 1F","order":7,"parentId":3,"scrollX":1500,"scrollY":1688},
+{"id":5,"expanded":true,"name":"Village Onro","order":3,"parentId":1,"scrollX":816,"scrollY":624},
+{"id":6,"expanded":true,"name":"Inn 1F","order":4,"parentId":5,"scrollX":816,"scrollY":624},
+{"id":7,"expanded":false,"name":"Inn 2F","order":5,"parentId":6,"scrollX":0,"scrollY":0}
 ]
