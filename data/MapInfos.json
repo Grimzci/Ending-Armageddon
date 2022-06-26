@@ -1,11 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":9181.714285714284,"scrollY":2333.142857142857},
-{"id":2,"expanded":false,"name":"The Decorative Mines","order":2,"parentId":1,"scrollX":847.6363636363636,"scrollY":525.2727272727273},
-{"id":3,"expanded":false,"name":"Tower","order":6,"parentId":1,"scrollX":932.4,"scrollY":845.4},
-{"id":4,"expanded":false,"name":"Tower 1F","order":7,"parentId":3,"scrollX":1419.6,"scrollY":1687.8},
-{"id":5,"expanded":false,"name":"Village Onro","order":3,"parentId":1,"scrollX":942,"scrollY":622.1999999999999},
-{"id":6,"expanded":true,"name":"Inn 1F","order":4,"parentId":5,"scrollX":1500,"scrollY":856},
-{"id":7,"expanded":false,"name":"Inn 2F","order":5,"parentId":6,"scrollX":0,"scrollY":0},
-{"id":8,"expanded":false,"name":"Castle","order":8,"parentId":1,"scrollX":1332,"scrollY":825.4285714285713}
+null,
+{"id":2,"expanded":false,"name":"Second World","order":2,"parentId":4,"scrollX":2250,"scrollY":1768.5},
+null,
+{"id":4,"expanded":true,"name":"First World","order":1,"parentId":0,"scrollX":3777,"scrollY":2016},
+{"id":5,"expanded":false,"name":"Third World","order":3,"parentId":4,"scrollX":3375,"scrollY":2826}
 ]
