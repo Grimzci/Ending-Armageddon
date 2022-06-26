@@ -1,8 +1,8 @@
 [
 null,
+{"id":1,"expanded":true,"name":"Stone Cave","order":4,"parentId":4,"scrollX":1928.5714285714284,"scrollY":1086.857142857143},
+{"id":2,"expanded":false,"name":"Second World","order":2,"parentId":4,"scrollX":2250.8571428571427,"scrollY":1769.142857142857},
 null,
-{"id":2,"expanded":false,"name":"Second World","order":2,"parentId":4,"scrollX":2250,"scrollY":1768.5},
-null,
-{"id":4,"expanded":true,"name":"First World","order":1,"parentId":0,"scrollX":3777,"scrollY":2016},
-{"id":5,"expanded":false,"name":"Third World","order":3,"parentId":4,"scrollX":3375,"scrollY":2826}
+{"id":4,"expanded":true,"name":"First World","order":1,"parentId":0,"scrollX":3750.8571428571427,"scrollY":1935.4285714285713},
+{"id":5,"expanded":true,"name":"Third World","order":3,"parentId":4,"scrollX":3375.428571428571,"scrollY":2826.8571428571427}
 ]
